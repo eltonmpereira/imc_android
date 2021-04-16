@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Calculo de IMC</string>
+    <string name="calculo_de_imc">Calculo de IMC!</string>
+    <string name="imagem_de_3_pessoas">imagem_de_3_pessoas</string>
+    <string name="entre_com_seu_peso_kg">Entre com seu peso! (kg)</string>
+    <string name="calcular">CALCULAR</string>
+    <string name="resultado">RESULTADO</string>
+    <string name="entre_com_sua_altura_ex_1_70">Entre com sua altura! (Ex: 1,70)</string>
+</resources>
